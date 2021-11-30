@@ -1,6 +1,14 @@
-### Hi there 👋
 
-<embed src="readmeCover.mp4"></embed>
+![name-of-you-image](https://github.com/Anjacodes/Anjacodes/blob/main/cover%20(900%20x%20500%20px).jpg?raw=true)
+
+<p>Hi there! I'm Anja, thanks for stopping by. I'm a full-stack engineer, and a passionate for design and efficiency. <br>Please be sure to check out my <a src="https://anjacodes.github.io/Portfolio/">portfolio</a>.</p>
+
+<h2>Stack</h2>
+<ul style="list-style-type: none;">
+  <li>⚡JavaScript</li>
+  <li>⚡React</li>
+  <li>⚡Ruby on Rails</li>
+</ul>
 
 <!--
 **Anjacodes/Anjacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
